@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on leveraging my skills in web development.<br>👯 I’m looking to collaborate on development at starter stage.<br>🌱 I’m currently learning Bachelor of computer arts<br>💬 Ask me about basic frontend web development and computer shortcuts.
 
+[My portfolio ▶️](https://priya-dharshini-11.github.io/Priyadharshini-TNSDC-FWD-DP/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.pri._04?igsh=eTV0bnhnbnVpNGxy) 
